@@ -8,7 +8,7 @@ This is a weather website created using HTML, CSS, and JavaScript.
 
 
 ## How to Use
-- Clone the repository: `git clone https://github.com/yourusername/Weather-Website.git`
+- Clone the repository: `git clone https://github.com/charanmayi/Weather-Website.git`
 - Open `index.html` in a web browser.
 
 ## Screenshots
